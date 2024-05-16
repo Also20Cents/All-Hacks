@@ -23,7 +23,7 @@ try {
   }
   (async() => {
     const pin = prompt("Enter PIN, like: XXX-XXX", "").match(/[0-9a-zA-Z]/g).join("");
-    if(pin.length !== 6) throw new Error("Pin must be 6 characters in length.");
+    if(pin.length !== 8) throw new Error("Pin must be 6 characters in length.");
     const setId = await getSetId(pin);
     const [term2Def, def2Term] = await getSetData(setId);
     setInterval(async function() {
