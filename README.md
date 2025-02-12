@@ -1,35 +1,5 @@
-# All-Hacks
-### goodbye
+# This is not my code or directory
+All Credits go to Playstation 452 and others who created these scripts
 
-most of these uses browser dev console
-
-for the idiots this is not deployable you need to go in the files and copy the code
-
-report a bug  [here](https://github.com/playstation452/All-Hacks/milestone/1)
-
-suggest a hack  [here](https://github.com/playstation452/All-Hacks/milestone/2)
-
-# credits
-
-05konz for blooket hacks
-
-haha-noob for iready hacks
-
-## advertisement
-
-my discord is playstation451#9730 dm me if you want your ad here
-
-go look at my minecraft 1.12.2 anarchy hack client  [here](https://github.com/wdnc-mc-client/WDNC-Client)
-
-## Star History
-
-<a href="https://star-history.com/#playstation452/All-Hacks&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=playstation452/All-Hacks&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=playstation452/All-Hacks&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=playstation452/All-Hacks&type=Date" />
-  </picture>
-</a>
-
-
-
+<be>
+# DO NOT EXPECT UPDATES
